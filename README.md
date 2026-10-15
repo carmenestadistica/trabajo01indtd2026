@@ -1,10 +1,12 @@
 # trabajo01indtd2026
-Este repositorio está dedicado a la Tarea 01 de la asignatura Teoría de la Decisión (de la parte de prácticas).
 
-### Código utilizado
+Este repositorio contiene el trabajo individual correspondiente a la Tarea 01 de la asignatura Teoría de la Decisión (parte práctica).
 
-En cuanto al código utilizado para la resolución de los problemas de decisión bajo incertidumbre, he hecho uso de las funciones de R proporcionadas por el profesor. El código de referencia de la asignatura se encuentra disponible en el siguiente repositorio:
+## Código utilizado
+
+Para la resolución de los problemas de decisión bajo incertidumbre se han utilizado las funciones de R proporcionadas por el profesor de la asignatura.
+El código de referencia está disponible en el siguiente repositorio:
 
 https://github.com/calote/TDecisionCodigo
 
-de donde se puede descargar fácilmente el archivo "teoriadecision_funciones_incertidumbre.R" con las fórmulas necesarias. 
+Desde dicho repositorio se puede obtener el archivo `teoriadecision_funciones_incertidumbre.R`, que contiene las funciones necesarias para aplicar los distintos criterios de decisión bajo incertidumbre.
