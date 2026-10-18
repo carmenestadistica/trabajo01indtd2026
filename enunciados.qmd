@@ -1,6 +1,6 @@
 ---
 title: "Enunciados del Trabajo individual 1"
-author: "Carmen VC"
+author: "Carmen Vera Cordobés"
 format:
   html:
      toc: true
