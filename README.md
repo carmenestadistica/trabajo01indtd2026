@@ -15,6 +15,16 @@ Para ello, he desarrollado dos problemas:
 Ambos problemas incluyen cinco afirmaciones de selección múltiple, en las que se deben identificar las verdaderas, así como sus correspondientes soluciones justificadas.
 
 
+## Código utilizado
+
+Para la resolución de los problemas he utilizado las funciones de R proporcionadas por el profesor de la asignatura.
+El código de referencia a su repositorio donde están estas funciones disponibles es:
+
+https://github.com/calote/TDecisionCodigo
+
+Desde ahí, pude obtener el archivo `teoriadecision_funciones_incertidumbre.R`, con todo lo necesario para aplicar los distintos criterios de decisión bajo incertidumbre.
+
+
 ## Documentos adjuntos: 
 
 - **`enunciados.qmd` y `soluciones.qmd`**: archivos fuente de Quarto que contienen los enunciados y las resoluciones de los problemas, respectivamente.
@@ -24,11 +34,3 @@ Ambos problemas incluyen cinco afirmaciones de selección múltiple, en las que 
 - **`trabajo01indtd2026.Rproj`**: archivo del proyecto de RStudio.
 - **`enunciados_files/` y `soluciones_files/`**: carpetas con los archivos auxiliares generados al renderizar los documentos.
 
-## Código utilizado
-
-Para la resolución de los problemas he utilizado las funciones de R proporcionadas por el profesor de la asignatura.
-El código de referencia a su repositorio donde están estas funciones disponibles es:
-
-https://github.com/calote/TDecisionCodigo
-
-Desde ahí, pude obtener el archivo `teoriadecision_funciones_incertidumbre.R`, con todo lo necesario para aplicar los distintos criterios de decisión bajo incertidumbre.
