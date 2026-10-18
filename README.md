@@ -22,4 +22,4 @@ El código de referencia a su repositorio donde están estas funciones disponibl
 
 https://github.com/calote/TDecisionCodigo
 
-Desde ahí, se puede obtener el archivo `teoriadecision_funciones_incertidumbre.R`, con todo lo necesario para aplicar los distintos criterios de decisión bajo incertidumbre.
+Desde ahí, pude obtener el archivo `teoriadecision_funciones_incertidumbre.R`, con todo lo necesario para aplicar los distintos criterios de decisión bajo incertidumbre.
