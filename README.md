@@ -1,6 +1,8 @@
 # trabajo01indtd2026
 
-## Contenido del trabajo
+#### Trabajo realizado por Carmen Vera Cordobés
+
+## Contenido: 
 
 Este trabajo individual de la asignatura **Teoría de la Decisión** tiene como objetivo aplicar los distintos criterios de decisión bajo incertidumbre mediante el lenguaje de programación R.
 
@@ -12,8 +14,15 @@ Para ello, he desarrollado dos problemas:
 
 Ambos problemas incluyen cinco afirmaciones de selección múltiple, en las que se deben identificar las verdaderas, así como sus correspondientes soluciones justificadas.
 
-Los documentos se presentan en **HTML y PDF**, generados mediante Quarto y Typst.
 
+## Documentos adjuntos: 
+
+- **`enunciados.qmd` y `soluciones.qmd`**: archivos fuente de Quarto que contienen los enunciados y las resoluciones de los problemas, respectivamente.
+- **`enunciados.html` y `enunciados.pdf`**: versiones de los enunciados en formato HTML y PDF.
+- **`soluciones.html` y `soluciones.pdf`**: versiones de las soluciones desarrolladas en formato HTML y PDF.
+- **`teoriadecision_funciones_incertidumbre.R`**: archivo con las funciones de R utilizadas para aplicar los criterios de decisión bajo incertidumbre.
+- **`trabajo01indtd2026.Rproj`**: archivo del proyecto de RStudio.
+- **`enunciados_files/` y `soluciones_files/`**: carpetas con los archivos auxiliares generados al renderizar los documentos.
 
 ## Código utilizado
 
